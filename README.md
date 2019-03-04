@@ -1,1 +1,2 @@
-# attention_project
+# Attention in pytorch
+Skoltech project realization
