@@ -1,2 +1,2 @@
-# Attention pytorch implementation on FMRI
+# Attention pytorch implementation on FMRI data
 VoxResNet with DeepExplain
