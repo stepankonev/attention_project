@@ -1,2 +1,2 @@
-# Attention in pytorch
-Skoltech project realization
+# Attention pytorch implementation on FMRI
+VoxResNet with DeepExplain
