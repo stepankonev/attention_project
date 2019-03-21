@@ -12,6 +12,7 @@ https://openneuro.org/datasets/ds000030
 
   Pytorch implementation can be found in:
 - `main_pytorch.ipynb`
+
   We use DeepExplain framework to decribe predictions of trained model
 
 To run these files you need to import them to Colab and unpack `sMRI` dataset to folder `Colab Notebooks/sMRI` at your google drive.
